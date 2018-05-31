@@ -1,3 +1,6 @@
+/*
+Write a program to print the arguments passed via Command Line arguments 
+*/
 
 class Argument
 {
