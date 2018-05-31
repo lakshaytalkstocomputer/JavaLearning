@@ -1,3 +1,5 @@
+/* WAP to print common elements in two array */
+
 import java.util.*;
 
 class Common
