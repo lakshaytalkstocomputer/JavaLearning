@@ -1,3 +1,4 @@
+/* WAP to count words in a string - Naive Approach */
 import java.util.*;
 class Count
 {
