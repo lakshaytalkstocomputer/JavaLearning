@@ -1,3 +1,5 @@
+/* WAP to find fibonacci sequence */
+
 import java.util.*;
 
 class Fibonacci
