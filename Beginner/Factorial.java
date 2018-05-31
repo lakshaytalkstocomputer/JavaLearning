@@ -1,3 +1,5 @@
+/* WAP to find factorial of a number */
+
 import java.util.*;
 
 class Factorial
