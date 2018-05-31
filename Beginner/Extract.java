@@ -1,3 +1,4 @@
+/* WAP to extract digits from a String */
 import java.util.*;
 class Extract
 {
