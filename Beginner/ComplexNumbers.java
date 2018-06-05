@@ -1,4 +1,4 @@
-package Training;
+/* WAP to add and subtract two complex numbers */
 
 import java.util.Scanner;
 class ComplexNumber
