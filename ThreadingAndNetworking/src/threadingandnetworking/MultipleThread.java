@@ -50,7 +50,19 @@ public class MultipleThread {
     
     // Start the threads
     nt1.t.start();
-    nt1.t.start();
+    nt2.t.start();
+    nt3.t.start();
     
+    try
+    {
+        Thread.sleep(10000);
+        
+    }
+    catch(InterruptedException e){
+        System.out.println("Main Thread Interrupted");
+    }
     
+        System.out.println("Main Thread Exiting");
+    
+    }
 }
